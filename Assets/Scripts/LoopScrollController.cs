@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using TMPro;
 using Unity.VisualScripting;
@@ -44,7 +45,7 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
             title = _so_SongData.sheetDataRecords[index].title;
            for (int j=0;j<_dateDic.GetQtyByIndex(i);j++)
             {
-                songList.Add(new SongData(_so_SongData.sheetDataRecords[index].songName, _so_SongData.sheetDataRecords[index].artist));
+                songList.Add(new SongData(_so_SongData.sheetDataRecords[index].songName, _so_SongData.sheetDataRecords[index].artist, _so_SongData.sheetDataRecords[index].time));
                 index++;
             }
             
@@ -85,6 +86,8 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
         {
             var songObj = Instantiate(_songViewPrefab, adSong.ContentRoot.transform);
             songObj.Initialize(song);
+            int no = index;
+            songObj.LinkButton.onClick.AddListener(() => OnButton(_sheetData[no].url, song.Time));
             //Debug.LogError($"song:{song.SongName}/{song.Artist}");
         }
         index++;
@@ -120,5 +123,25 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
                 listView.Date.text = _sheetData[index].date;
             }
         }
+    }
+    public void OnButton(string url,string dateTime)
+    {
+        string link = $"{url}&t={ConvertSecondText(dateTime)}s";
+        Debug.LogError($"Open URL:{link}");
+        Application.OpenURL(link);
+    }
+
+    public string ConvertSecondText(string dateTime)
+    {
+        // 「:」が1つしかない場合は、時間が省略されたとみなして「0:」を追加
+        if (dateTime.Split(':').Length == 2)
+        {
+            dateTime = "0:" + dateTime;
+        }
+        TimeSpan timeSpan=TimeSpan.Parse(dateTime);
+        double totalSeconds=timeSpan.TotalSeconds;
+        Debug.LogError($"Second:{totalSeconds}");
+
+        return $"{totalSeconds}";
     }
 }
