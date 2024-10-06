@@ -141,7 +141,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "\u30AD"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4f3e3bc204620b84eb4ed5ec0932b2d9, type: 2}
   m_sharedMaterial: {fileID: 9013261646309217754, guid: 4f3e3bc204620b84eb4ed5ec0932b2d9, type: 2}
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55.2
+  m_fontSize: 71.6
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -433,6 +433,7 @@ GameObject:
   - component: {fileID: 724928578483244810}
   - component: {fileID: 5972828158227795569}
   - component: {fileID: 8274531297059071632}
+  - component: {fileID: -3991161490464295178}
   m_Layer: 5
   m_Name: Song
   m_TagString: Untagged
@@ -459,7 +460,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 100}
+  m_SizeDelta: {x: 1080, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7896751093665175418
 CanvasRenderer:
@@ -539,3 +540,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _songName: {fileID: 7507178745598954616}
   _artist: {fileID: 7898183883969634919}
+--- !u!114 &-3991161490464295178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6709281051586773605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: 1080
+  m_MinHeight: 100
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1

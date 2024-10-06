@@ -2,17 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SongData : MonoBehaviour
-{
-    string _songName;
-    string _artist;
+//[System.Serializable]
+//public class SongData
+//{
 
-    public string SongName { get => _songName; }
-    public string Artist { get => _artist;}
+//    string _songName;
+//    string _artist;
 
-    public void SetData(string song,string artist)
-    {
-        _songName = song;
-        _artist = artist;
-    }
-}
+//    public string SongName { get => _songName; }
+//    public string Artist { get => _artist;}
+
+//    public SongData(string song,string artist)
+//    {
+//        _songName = song;
+//        _artist = artist;
+//    }
+//}

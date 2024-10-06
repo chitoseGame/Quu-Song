@@ -12,7 +12,7 @@ public class SongView : MonoBehaviour
 
     public void Initialize(SongData data)
     {
-        _songName.text = data.name;
+        _songName.text = data.SongName;
         _artist.text=data.Artist;
     }
 }
