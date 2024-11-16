@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SongSearch.unity
     guid: 3bb3be924ecded446b213908c81c9d18
+  - enabled: 1
+    path: Assets/Scenes/youtubeSearch.unity
+    guid: 608fbbe2c8b4ab148b7428149bd89b4c
   m_configObjects: {}

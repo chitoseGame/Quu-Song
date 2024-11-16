@@ -226,6 +226,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.setchi.fancyscrollview": {
+      "version": "1.9.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "me.qiankanglai.loopscrollrect": {
       "version": "file:../Assets/Plugins",
       "depth": 0,

@@ -14,7 +14,7 @@ public class SO_Song : ScriptableObject
 {
     public SheetDataRecord[]sheetDataRecords;
     [SerializeField]
-    private string url;
+    private string url;//公開URLを張ること
 
     [System.Serializable]
     public class SheetDataRecord
@@ -71,7 +71,7 @@ public class SheetDataEditor : Editor
         if (GUILayout.Button("データ更新"))
         {
             ((SO_Song)target).LoadSheetData();
-            ((SO_Song)target).LoadSheetData();
+            //((SO_Song)target).LoadSheetData();
         }
     }
 }

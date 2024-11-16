@@ -16,6 +16,7 @@ public class SongView : MonoBehaviour
     string _url;
 
     public Button LinkButton { get => _linkButton;}
+    public string SongName { get => _songName.text; }
 
     public void Initialize(SongData data)
     {

@@ -16,12 +16,17 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
 
     [SerializeField]
     SO_Song _so_SongData;
+    [SerializeField]
+    TMP_InputField _InputField;
+    [SerializeField]
+    VerticalLayoutGroup _verticalLayoutGroup;
 
     private ObjectPool<GameObject> _pool;
     private List<SheetData> _sheetData;
     //private Dictionary<string, int> _dateDic;
     private MyDictionary _dateDic = new MyDictionary();
-
+    private List<SongView> _songList = new List<SongView>();
+    private List<SongListView> _daysList = new List<SongListView>();
 
     private void Start()
     {
@@ -54,6 +59,7 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
             //Debug.LogError(_sheetData[i].data.Count);
         }
         Initialize(_sheetData.Count);
+        _InputField.onValueChanged.AddListener(OnSearchFiltter);
     }
     public void Initialize(int listCount)
     {
@@ -62,12 +68,12 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
             // オブジェクト生成処理
             () => CreateListObject(),
             // オブジェクトがプールから取得される時の処理
-            o => o.SetActive(true),
+            //o => o.SetActive(true),
             // オブジェクトがプールに戻される時の処理
             o =>
             {
-                o.transform.SetParent(transform);
-                o.SetActive(false);
+                //o.transform.SetParent(transform);
+                //o.SetActive(false);
             });
 
         var scrollRect = GetComponent<LoopScrollRect>();
@@ -77,17 +83,24 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
         scrollRect.RefillCells();
     }
     int index = 0;
+
     GameObject CreateListObject()
     {
+        if(index>_so_SongData.sheetDataRecords.Length)
+        {
+            Debug.LogError($"index:{index}");
+            return null;
+        }
         var obj = Instantiate(_listViewPrefab);
         var adSong = obj.GetComponent<SongListView>();
-        
+        _daysList.Add(adSong);
         foreach (var song in _sheetData[index].data)
         {
             var songObj = Instantiate(_songViewPrefab, adSong.ContentRoot.transform);
             songObj.Initialize(song);
             int no = index;
             songObj.LinkButton.onClick.AddListener(() => OnButton(_sheetData[no].url, song.Time));
+            _songList.Add(songObj);
             //Debug.LogError($"song:{song.SongName}/{song.Artist}");
         }
         index++;
@@ -106,7 +119,7 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
     void LoopScrollPrefabSource.ReturnObject(Transform trans)
     {
         // オブジェクトプールにGameObjectを返却
-        _pool.Release(trans.gameObject);
+        //_pool.Release(trans.gameObject);
     }
 
     // LoopScrollDataSourceの実装
@@ -118,16 +131,17 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
         if (listView != null)
         {
             //Debug.LogError(_sheetData[index].date);
-            //if (!string.IsNullOrEmpty(_sheetData[index].date))
+            if (!string.IsNullOrEmpty(_sheetData[index].date))
             {
                 listView.Date.text = _sheetData[index].date;
+                listView.Title.text = _sheetData[index].title;
             }
         }
     }
     public void OnButton(string url,string dateTime)
     {
         string link = $"{url}&t={ConvertSecondText(dateTime)}s";
-        Debug.LogError($"Open URL:{link}");
+        //Debug.LogError($"Open URL:{link}");
         Application.OpenURL(link);
     }
 
@@ -140,8 +154,51 @@ public sealed class LoopScrollController : MonoBehaviour, LoopScrollPrefabSource
         }
         TimeSpan timeSpan=TimeSpan.Parse(dateTime);
         double totalSeconds=timeSpan.TotalSeconds;
-        Debug.LogError($"Second:{totalSeconds}");
+        //Debug.LogError($"Second:{totalSeconds}");
 
         return $"{totalSeconds}";
+    }
+
+    public void OnSearchFiltter(string search)
+    {
+        foreach(var songObj in _songList)
+        {
+            songObj.gameObject.SetActive(songObj.SongName.Contains(search));
+        }
+        foreach (var daysObj in _daysList)
+        {
+            daysObj.gameObject.SetActive(ActiveCount(daysObj.ContentRoot.transform) != 0);
+        }
+        LayoutRebuilder.ForceRebuildLayoutImmediate(_verticalLayoutGroup.GetComponent<RectTransform>());
+    }
+
+    private void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.K)) 
+        {
+            int no = 0;
+            foreach(var sheet in _sheetData) { }
+            {
+                var obj = _pool.Get();
+
+
+            }
+            Debug.LogError("");
+        }
+    }
+
+    int ActiveCount(Transform content)
+    {
+        int count = 0;
+
+        foreach(Transform child in content)
+        {
+            if(child.gameObject.activeSelf)
+            {
+                count++;
+            }
+        }
+
+        return count;
     }
 }
