@@ -1,0 +1,66 @@
+.song_textfield {
+    height: 50px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.song-object-list {
+    flex-grow: 1;
+    width: auto;
+    flex-direction: row;
+    align-items: stretch;
+    height: 100px;
+    justify-content: flex-start;
+    align-self: auto;
+    background-color: rgb(202, 174, 174);
+}
+
+.unity-scroll-view__vertical-scroller {
+    width: 20px;
+}
+
+.unity-scroll-view__vertical-scroller .unity-slider {
+    width: 20px;
+}
+
+.songDateLabel {
+    width: 25%;
+    height: 100px;
+    font-size: 28px;
+    -unity-font: url("project://database/Assets/Fonts/static/NotoSansJP-Regular.ttf?fileID=12800000&guid=14a124630e2a56e439e09f823e595aa5&type=3#NotoSansJP-Regular");
+    -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
+    -unity-text-align: middle-left;
+}
+
+.songNameLabel {
+    width: 25%;
+    text-overflow: ellipsis;
+    height: 100px;
+    font-size: 28px;
+    -unity-font: url("project://database/Assets/Fonts/static/NotoSansJP-Regular.ttf?fileID=12800000&guid=14a124630e2a56e439e09f823e595aa5&type=3#NotoSansJP-Regular");
+    -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
+    -unity-text-align: middle-left;
+}
+
+.songTitleLabel {
+    width: auto;
+    text-overflow: clip;
+    white-space: nowrap;
+    overflow: hidden;
+    height: 100px;
+    font-size: 28px;
+    -unity-font: url("project://database/Assets/Fonts/static/NotoSansJP-Regular.ttf?fileID=12800000&guid=14a124630e2a56e439e09f823e595aa5&type=3#NotoSansJP-Regular");
+    -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
+    -unity-text-align: middle-left;
+}
+
+.songArtistLabel {
+    width: 25%;
+    height: 100px;
+    font-size: 28px;
+    -unity-font: url("project://database/Assets/Fonts/static/NotoSansJP-Regular.ttf?fileID=12800000&guid=14a124630e2a56e439e09f823e595aa5&type=3#NotoSansJP-Regular");
+    -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
+    -unity-text-align: middle-left;
+}

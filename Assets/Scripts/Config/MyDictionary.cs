@@ -8,7 +8,7 @@ using UnityEngine;
 // Add‚ÅKey‚ğ’Ç‰Á‚µ‚Ä‚¢‚­‚Æ©“®‚ÅDictionary‚ğ¶¬‚·‚é
 // —v‘f”(key‚Ìí—Ş)‚ÍindexMax‚Åæ‚èo‚·
 //******************************
-public class MyDictionary
+public class MyDictionary:List<MyDictionary>
 {
     //int index; // —v‘f”Ô†(Add‚µ‚½‡”Ô‚ÉŠi”[‚³‚ê‚é)
     public int indexMax = 0; // key‚Ìí—Ş”

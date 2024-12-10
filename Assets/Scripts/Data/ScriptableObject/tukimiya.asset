@@ -4813,7 +4813,7 @@ MonoBehaviour:
     title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u307E\u3063\u305F\u308A\u541E\u307F\u306A\u304C\u3089\u591C\u66F4\u304B\u3057\u6B4C\u67A0|
       singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
       #karaoke\u3000#shorts"
-    songName: Hello, Worker
+    songName: KEI
     artist: KEI
     time: 20:55
     url: https://www.youtube.com/watch?v=ylchoGwtgsg
@@ -7033,7 +7033,7 @@ MonoBehaviour:
       singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
       #karaoke\u3000#shorts"
     songName: "\u5730\u7403\u6700\u5F8C\u306E\u544A\u767D\u3092"
-    artist: kemu
+    artist: "\u5800\u6C5F\u6676\u592A"
     time: 1:43:24
     url: https://www.youtube.com/watch?v=E2XKs-nbhFw
   - date: 2024/03/17
@@ -9237,12 +9237,1413 @@ MonoBehaviour:
     artist: "\u30E8\u30EB\u30B7\u30AB"
     time: 3:40:16
     url: https://www.youtube.com/watch?v=zDnUSYc5zys
-  - date: 
+  - date: 2024/07/04
     title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
       singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
       #karaoke\u3000#shorts"
-    songName: 
-    artist: 
-    time: 
+    songName: "\u4E0D\u5C48\u306E\u30A2\u30A4\u30C9\u30EB"
+    artist: HoneyWorks
+    time: 13:11
     url: https://www.youtube.com/watch?v=v8NbEU2o44k
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRfkX3CIwBF9Xs8oV5uIOopgjsaNQvjRyRUS32-pBU6Qb7nGl3xKXWPjKIfB61e2ysmxLcTV3MG-RDJ/pub?output=csv
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30B5\u30A4\u30F3\u306FB"
+    artist: "\u30A2\u30A4(\u9AD8\u6A4B\u674E\u4F9D)"
+    time: 21:11
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30D3\u30D3\u30C7\u30D0"
+    artist: "\u661F\u8857\u3059\u3044\u305B\u3044"
+    time: 28:09
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Loveit?
+    artist: "biz\xD7ZERA"
+    time: 34:40
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30A2\u30A4\u30C9\u30EB"
+    artist: YOASOBI
+    time: 40:46
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30C8\u30E9\u30A4\u30A2\u30F3\u30B0\u30E9\u30FC"
+    artist: "\u5742\u672C\u771F\u7DBE"
+    time: 54:01
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30AA\u30FC\u30D0\u30FC\u30E9\u30A4\u30C9"
+    artist: "\u5409\u7530\u591C\u4E16"
+    time: 59:13
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u9752\u3068\u590F"
+    artist: Mrs. GREEN APPLE
+    time: 1:08:58
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u304D\u3089\u308A"
+    artist: "\u85E4\u4E95\u98A8"
+    time: 1:25:40
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: No brand girls
+    artist: "\u03BC's"
+    time: 1:28:46
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u305D\u308C\u306F\u50D5\u305F\u3061\u306E\u5947\u8DE1"
+    artist: "\u03BC's"
+    time: 1:35:09
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: START:DASH!!
+    artist: "\u03BC's"
+    time: 1:41:39
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/04
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u3046\u3061\u3085\u30FC\u3044\u3061\u306E\u30A2\u30A4\u30C9\u30EB\u306B\u306A\u308A\u305F\u3044\u3063\u2755|
+      singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: No.1
+    artist: mona
+    time: 1:57:30
+    url: https://www.youtube.com/watch?v=v8NbEU2o44k
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u30A6\u30DF\u30E6\u30EA\u6D77\u5E95\u8B5A"
+    artist: N-buna
+    time: 6:03
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u96F2\u3068\u5E7D\u970A"
+    artist: "\u30E8\u30EB\u30B7\u30AB"
+    time: 14:21
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u6B7B\u3093\u3067\u3057\u307E\u3063\u305F\u306E\u3060\u308D\u3046\u304B"
+    artist: Guiano
+    time: 23:30
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u30BF\u30A4\u30E0\u30DE\u30B7\u30F3"
+    artist: 40mP
+    time: 34:30
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u30A2\u30A4\u30CD\u30AF\u30E9\u30A4\u30CD"
+    artist: "\u7C73\u6D25\u7384\u5E2B"
+    time: 58:38
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: Lemon
+    artist: "\u7C73\u6D25\u7384\u5E2B"
+    time: 1:07:52
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u5C0F\u591C\u5B50"
+    artist: "\u307F\u304D\u3068P"
+    time: 1:18:33
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u30B5\u30EA\u30B7\u30CE\u30CF\u30E9"
+    artist: "\u307F\u304D\u3068P"
+    time: 1:31:13
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: First Love
+    artist: "\u5B87\u591A\u7530\u30D2\u30AB\u30EB"
+    time: 1:39:05
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: "\u77B3\u3092\u3068\u3058\u3066"
+    artist: "\u5E73\u4E95\u5805"
+    time: 1:46:15
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: Jupiter
+    artist: "\u5E73\u539F\u7DBE\u9999"
+    time: 1:55:38
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/10
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011\u96E8\u97F3\u3068\u30D4\u30A2\u30CE
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0| singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber
+      \u3011#\u6B4C\u67A0 #karaoke\u3000#shorts"
+    songName: This Love
+    artist: "\u30A2\u30F3\u30B8\u30A7\u30E9\u30FB\u30A2\u30AD"
+    time: 2:05:16
+    url: https://www.youtube.com/watch?v=xfkVoDup0Nk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u4E09\u65E5\u6708\u30B9\u30C6\u30C3\u30D7"
+    artist: r-906
+    time: 8:15
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Overdose
+    artist: "\u306A\u3068\u308A"
+    time: 23:29
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u98DF\u866B\u690D\u7269"
+    artist: "\u7406\u82BD"
+    time: 36:48
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u8A9E\u308A\u7D99\u3050\u3053\u3068"
+    artist: "\u5143\u3061\u3068\u305B"
+    time: 46:40
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3067\u3082\u306D"
+    artist: "\u6C34\u91CE\u3042\u3064"
+    time: 1:01:29
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: me me she
+    artist: RADWIMPS
+    time: 1:09:27
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u591C\u660E\u3051\u3068\u86CD"
+    artist: N-buna
+    time: 1:17:28
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30CF\u30C3\u30D4\u30FC\u30A8\u30F3\u30C9"
+    artist: Back number
+    time: 1:26:22
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: First Love
+    artist: "\u5B87\u591A\u7530\u30D2\u30AB\u30EB"
+    time: 1:35:16
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Pretender
+    artist: "Official\u9AED\u7537dism"
+    time: 1:45:33
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Lemon
+    artist: "\u7C73\u6D25\u7384\u5E2B"
+    time: 1:56:46
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u305F\u3070\u3053"
+    artist: "\u30B3\u30EC\u30B5\u30EF"
+    time: 2:04:19
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30C9\u30E9\u30A4\u30D5\u30E9\u30EF\u30FC"
+    artist: "\u512A\u91CC"
+    time: 2:14:30
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u98A8\u306B\u306A\u308B"
+    artist: "\u3064\u3058\u3042\u3084\u306E"
+    time: 2:31:55
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/19
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u9759\u304B\u306A\u7720\u308C\u308B\u6B4C\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3042\u306A\u305F\u306E\u591C\u304C\u660E\u3051\u308B\u307E\u3067"
+    artist: "\u5098\u6751\u30C8\u30FC\u30BF"
+    time: 2:58:46
+    url: https://www.youtube.com/watch?v=OFxgD-6T6qk
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u304A\u546A\u3044"
+    artist: "\u306A\u304D\u305D"
+    time: 16:12
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u8CB4\u65B9\u89E3\u5256\u7D14\u611B\u6B4C\uFF5E\u6B7B\u306D\uFF5E"
+    artist: "\u3042\u3044\u307F\u3087\u3093"
+    time: 25:34
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u611B\u3057\u3066\u611B\u3057\u3066\u611B\u3057\u3066"
+    artist: "\u304D\u304F\u304A"
+    time: 36:47
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u7C9B\u8056!! \u30ED\u30EA\u795E\u30EC\u30AF\u30A4\u30A8\u30E0\u2606"
+    artist: "\u3057\u3050\u308C\u3046\u3044"
+    time: 48:18
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u6669\u9910\u6B4C"
+    artist: tuki.
+    time: 58:08
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: U&I
+    artist: "\u653E\u8AB2\u5F8C\u30C6\u30A3\u30FC\u30BF\u30A4\u30E0"
+    time: 1:12:13
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5FC3\u505A\u3057"
+    artist: "\u8776\u3005P"
+    time: 1:21:51
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30E9\u30D3\u30C3\u30C8\u30DB\u30FC\u30EB"
+    artist: DECO*27
+    time: 1:32:51
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: God knows...
+    artist: "\u6DBC\u5BAE\u30CF\u30EB\u30D2(\u5E73\u91CE\u7DBE)"
+    time: 1:42:05
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Overdose
+    artist: "\u306A\u3068\u308A"
+    time: 1:50:03
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u7D05\u84EE\u306E\u5F13\u77E2"
+    artist: Linked Horizon
+    time: 1:59:03
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Tot Musica
+    artist: Ado
+    time: 2:02:18
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3042\u3044\u3057\u3066\u3044\u305F\u306E\u306B"
+    artist: MARETU
+    time: 2:08:04
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u51DB\u3068\u3057\u3066\u54B2\u304F\u82B1\u306E\u5982\u304F"
+    artist: "\u307E\u3089\u3057\u3043"
+    time: 2:16:34
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u60AA\u9B54\u306E\u5B50"
+    artist: "\u30D2\u30B0\u30C1\u30A2\u30A4"
+    time: 2:29:15
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/07/25
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5239\u90A3\u30D7\u30E9\u30B9"
+    artist: "\u307F\u304D\u3068P"
+    time: 2:40:25
+    url: https://www.youtube.com/watch?v=kexNPrAHSek
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u516B\u6708\u306E\u591C"
+    artist: SILENT SIREN
+    time: 6:01
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u7D05\u84EE\u83EF"
+    artist: LiSA
+    time: 14:50
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5FEB\u6674"
+    artist: Orangestar
+    time: 24:03
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30C9\u5C51"
+    artist: "\u306A\u304D\u305D"
+    time: 32:18
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Hello, Worker
+    artist: KEI
+    time: 39:08
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Let It Go
+    artist: Idina Menzel
+    time: 46:00
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u8F1D\u304F\u672A\u6765"
+    artist: "\u7560\u4E2D\u6D0B\uFF06\u5C0F\u6B64\u6728\u9EBB\u91CC"
+    time: 55:32
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u541B\u306E\u795E\u69D8\u306B\u306A\u308A\u305F\u3044"
+    artist: "\u30AB\u30F3\u30B6\u30AD\u30A4\u30AA\u30EA"
+    time: 1:04:33
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u308F\u305F\u3057\u306E\u4E00\u756A\u304B\u308F\u3044\u3044\u3068\u3053\u308D"
+    artist: FRUITS ZIPPER
+    time: 1:10:24
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3057\u3085\u304D\u3074"
+    artist: "\uFF1DLOVE"
+    time: 1:20:47
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30EF\u30FC\u30EB\u30C9\u30A4\u30BA\u30DE\u30A4\u30F3"
+    artist: Supercell
+    time: 1:38:43
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: KING
+    artist: Kanaria
+    time: 1:44:55
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30CF\u30E0\u592A\u90CE \u3068\u3063\u3068\u3053\u3046\u305F"
+    artist: "\u30CF\u30E0\u3061\u3083\u3093\u305A"
+    time: 1:52:23
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: MOTTAI
+    artist: "P\u4E38\u69D8\u3002"
+    time: 1:59:06
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u6625\u6CE5\u68D2"
+    artist: "\u30E8\u30EB\u30B7\u30AB"
+    time: 2:08:21
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/03
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u8D85\u30EC\u30A2\u306A\u671D\u6D3B\u2755\u304A\u306F\u3088\u3057\u3066\u3063\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u7C9B\u8056!! \u30ED\u30EA\u795E\u30EC\u30AF\u30A4\u30A8\u30E0\u2606"
+    artist: "\u3057\u3050\u308C\u3046\u3044"
+    time: 2:15:24
+    url: https://www.youtube.com/watch?v=e0ibFAdskQE
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30AB\u30C8\u30E9\u30EA\u30FC"
+    artist: "\u795E\u5C71\u7F8A"
+    time: 16:56
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "#\u3042\u304F\u3042\u8272\u3071\u308C\u3063\u3068"
+    artist: "\u6E4A\u3042\u304F\u3042"
+    time: 29:51
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u591C\u660E\u3051\u3068\u86CD"
+    artist: N-buna
+    time: 40:56
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u6708\u306E\u3057\u305A\u304F"
+    artist: RUI
+    time: 50:14
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u90E8\u5C4B\u3068\u30EF\u30A4\u30B7\u30E3\u30C4\u3068\u79C1"
+    artist: "\u5E73\u677E\u611B\u7406"
+    time: 1:00:50
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u7D76\u5BFE\u5F7C\u5973"
+    artist: "\u5927\u68EE\u9756\u5B50"
+    time: 1:12:17
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5730\u7403\u6700\u5F8C\u306E\u544A\u767D\u3092"
+    artist: "\u5800\u6C5F\u6676\u592A"
+    time: 1:23:37
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: Beauty And The Beast
+    artist: Ariana Grande,John Legend
+    time: 1:30:39
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u98F4\u8272\u306E\u5FAE\u71B1"
+    artist: "\u5410\u606F"
+    time: 1:39:19
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/07
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5B64\u72EC\u306E\u5B97\u6559"
+    artist: Syudou
+    time: 1:51:29
+    url: https://www.youtube.com/watch?v=kzhnry5ktPo
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "secret base \u301C\u541B\u304C\u304F\u308C\u305F\u3082\u306E\u301C"
+    artist: ZONE
+    time: 13:47
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "\u3060\u3093\u3060\u3093\u65E9\u304F\u306A\u308B"
+    artist: 40mP
+    time: 42:20
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "\u30B7\u30EB\u30FB\u30F4\u30FB\u30D7\u30EC\u30B8\u30C7\u30F3\u30C8"
+    artist: "P\u4E38\u69D8\u3002"
+    time: 48:23
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "\u30D3\u30D3\u30C7\u30D0"
+    artist: "\u661F\u8857\u3059\u3044\u305B\u3044"
+    time: 54:47
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: CH4NGE
+    artist: Giga
+    time: 59:39
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "\u3044\u30FC\u3042\u308B\u3075\u3041\u3093\u304F\u3089\u3076"
+    artist: "\u307F\u304D\u3068P"
+    time: 1:05:39
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/09
+    title: "\u3010 #\u6B4C\u67A0 / \u8A95\u751F\u65E5\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3
+      \u3011 \u30B9\u30DA\u30B7\u30E3\u30EB\u30B2\u30B9\u30C8\u3042\u308A\u2763\u307F\u3093\u306A\u3067\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3\U0001F49B
+      #\u65B0\u4EBAvtuber"
+    songName: "\u6669\u9910\u6B4C"
+    artist: tuki.
+    time: 1:13:26
+    url: https://www.youtube.com/watch?v=4sX1NCCWzk8
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30AE\u30AC\u30F3\u30C6\u30A3\u30C3\u30AFO.T.N"
+    artist: "\u30AE\u30ACP"
+    time: 16:54
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: twinkle night
+    artist: nyankobrq&yaca
+    time: 31:59
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u590F\u306B\u53BB\u308A\u3057\u541B\u3092\u60F3\u30D5"
+    artist: baker
+    time: 44:52
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u8150\u308C\u5916\u9053\u3068\u30C1\u30E7\u30B3\u30EC\u3090\u30C8"
+    artist: "\u30D4\u30CE\u30AD\u30AA\u30D4\u30FC"
+    time: 53:33
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30DE\u30FC\u30E1\u30A4\u30C9"
+    artist: "10\u65E5P"
+    time: 1:00:01
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u521D\u3081\u3066\u306E\u604B\u304C\u7D42\u308F\u308B\u6642"
+    artist: supercell
+    time: 1:08:26
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u9752\u306E\u3059\u307F\u304B"
+    artist: "\u30AD\u30BF\u30CB\u30BF\u30C4\u30E4"
+    time: 1:22:44
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u611B\u3092\u4F1D\u3048\u305F\u3044\u3060\u3068\u304B"
+    artist: "\u3042\u3044\u307F\u3087\u3093"
+    time: 1:30:41
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u80CC\u666F\u3001\u590F\u306B\u6EBA\u308C\u308B"
+    artist: "\u30CA\u30D6\u30CA"
+    time: 1:38:40
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u541B\u304C\u304F\u308C\u305F\u590F"
+    artist: "\u5BB6\u5165\u30EC\u30AA"
+    time: 1:53:21
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/14
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u6DF1\u591C\u306E\u307E\u3063\u305F\u308A\u6B4C\u96D1\u8AC7\u67A0\U0001F319\u5BDD\u843D\u3061\u3057\u306B\u304A\u3044\u3067\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3042\u306E\u590F\u304C\u98FD\u548C\u3059\u308B"
+    artist: "\u30AB\u30F3\u30B6\u30AD\u30A4\u30AA\u30EA"
+    time: 2:00:15
+    url: https://www.youtube.com/watch?v=CJvkhVuYInU
+  - date: 2024/08/31
+    title: "\u3010 #\u590F\u7D0D\u3081\u6B4C\u67A0\u30EA\u30EC\u30FC \u3011 \u307F\u3093\u306A\u3067\u590F\u306E\u601D\u3044\u51FA\u4F5C\u308D\uFF1F
+      singing stream\U0001F49B #\u65B0\u4EBAvtuber #karaoke"
+    songName: "\u5982\u6708\u30A2\u30C6\u30F3\u30B7\u30E7\u30F3"
+    artist: "\u3058\u3093"
+    time: 2:42
+    url: https://www.youtube.com/watch?v=Rz7H0cVHrak
+  - date: 2024/08/31
+    title: "\u3010 #\u590F\u7D0D\u3081\u6B4C\u67A0\u30EA\u30EC\u30FC \u3011 \u307F\u3093\u306A\u3067\u590F\u306E\u601D\u3044\u51FA\u4F5C\u308D\uFF1F
+      singing stream\U0001F49B #\u65B0\u4EBAvtuber #karaoke"
+    songName: "\u591C\u660E\u3051\u3068\u86CD"
+    artist: N-buna
+    time: 10:16
+    url: https://www.youtube.com/watch?v=Rz7H0cVHrak
+  - date: 2024/08/31
+    title: "\u3010 #\u590F\u7D0D\u3081\u6B4C\u67A0\u30EA\u30EC\u30FC \u3011 \u307F\u3093\u306A\u3067\u590F\u306E\u601D\u3044\u51FA\u4F5C\u308D\uFF1F
+      singing stream\U0001F49B #\u65B0\u4EBAvtuber #karaoke"
+    songName: "\u30D5\u30BF\u30EA\u30DC\u30B7"
+    artist: 40mP
+    time: 19:13
+    url: https://www.youtube.com/watch?v=Rz7H0cVHrak
+  - date: 2024/08/31
+    title: "\u3010 #\u590F\u7D0D\u3081\u6B4C\u67A0\u30EA\u30EC\u30FC \u3011 \u307F\u3093\u306A\u3067\u590F\u306E\u601D\u3044\u51FA\u4F5C\u308D\uFF1F
+      singing stream\U0001F49B #\u65B0\u4EBAvtuber #karaoke"
+    songName: "\u590F\u306B\u53BB\u308A\u3057\u541B\u3092\u60F3\u30D5"
+    artist: baker
+    time: 26:11
+    url: https://www.youtube.com/watch?v=Rz7H0cVHrak
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30AA\u30FC\u30D0\u30FC\u30E9\u30A4\u30C9"
+    artist: "\u5409\u7530\u591C\u4E16"
+    time: 13:38
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u308F\u305F\u3057\u306E\u4E00\u756A\u304B\u308F\u3044\u3044\u3068\u3053\u308D"
+    artist: FRUITS ZIPPER
+    time: 22:31
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u304A\u307E\u3048\u3082\u2661"
+    artist: Mona
+    time: 32:13
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3046\u3063\u305B\u3047\u308F"
+    artist: Ado
+    time: 41:41
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30D5\u30A1\u30BF\u30FC\u30EB"
+    artist: GEMN
+    time: 54:58
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30A2\u30F3\u30CE\u30A6\u30F3\u30FB\u30DE\u30B6\u30FC\u30B0\u30FC\u30B9"
+    artist: wowaka
+    time: 1:03:38
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: KING
+    artist: Kanaria
+    time: 1:16:20
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30ED\u30FC\u30EA\u30F3\u30AC\u30FC\u30EB"
+    artist: wowaka
+    time: 1:25:31
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u6D74\u69FD\u3068\u30CD\u30AA\u30F3\u30C6\u30C8\u30E9"
+    artist: REISAI
+    time: 1:30:37
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30A6\u30DF\u30E6\u30EA\u6D77\u5E95\u8B5A"
+    artist: N-buna
+    time: 1:40:23
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3075\u305F\u308A\u3054\u3068"
+    artist: RADWIMPS
+    time: 1:48:05
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30D5\u30A9\u30CB\u30A4"
+    artist: "\u30C4\u30DF\u30AD"
+    time: 2:00:32
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30E9\u30D3\u30C3\u30C8\u30DB\u30FC\u30EB"
+    artist: DECO*27
+    time: 2:06:40
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u30CF\u30EC\u30F3\u30C1"
+    artist: "\u3061\u3083\u3093\u307F\u306A"
+    time: 2:11:50
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "Fire\u25CEFlower"
+    artist: Halyosy
+    time: 2:18:35
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u3060\u3044\u3057\u304D\u3085\u30FC\u3060\u3044\u3057\u3085\u304D"
+    artist: femme fatale
+    time: 2:24:58
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: "\u5531"
+    artist: Ado
+    time: 2:36:12
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/08
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u30B2\u30EA\u30E9\u6B4C\u67A0\U0001F319\u304A\u3057\u3083\u3079\u308A\u3057\u3088\U0001F49B
+      | singing stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011#\u6B4C\u67A0
+      #karaoke\u3000#shorts"
+    songName: RE:I AM
+    artist: Aimer
+    time: 2:42:21
+    url: https://www.youtube.com/watch?v=Yhohqb5LB44
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u98F4\u8272\u306E\u5FAE\u71B1"
+    artist: "\u5410\u606F"
+    time: 6:43
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30C8\u30F3\u30C7\u30E2\u30EF\u30F3\u30C0\u30FC\u30BA"
+    artist: Sasakure.UK
+    time: 14:10
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "10\u6708\u7121\u53E3\u306A\u541B\u3092\u5FD8\u308C\u308B"
+    artist: "\u3042\u305F\u3089\u3088"
+    time: 19:22
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u7D76\u9802\u8B83\u6B4C"
+    artist: "\u548C\u306C\u304B"
+    time: 36:20
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: FANTASTIC BABY
+    artist: BIGBANG
+    time: 41:41
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: twinkle night
+    artist: nyankobrq&yaca
+    time: 53:24
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u604B\u611B\u30B5\u30FC\u30AD\u30E5\u30EC\u30FC\u30B7\u30E7\u30F3"
+    artist: "\u5343\u77F3\u64AB\u5B50(\u82B1\u6FA4\u9999\u83DC) "
+    time: 1:02:02
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u767D\u91D1\u30C7\u30A3\u30B9\u30B3"
+    artist: "\u963F\u826F\u3005\u6728\u6708\u706B(\u4E95\u53E3\u88D5\u9999)"
+    time: 1:08:12
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D0\u30D3\u30ED\u30F3"
+    artist: "\u30C8\u30FC\u30DE"
+    time: 1:15:13
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30B9\u30A4\u30FC\u30C8\u30DE\u30B8\u30C3\u30AF"
+    artist: Junky
+    time: 1:21:35
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "Crazy Party Night \uFF5E\u3071\u3093\u3077\u304D\u3093\u306E\u9006\u8972\uFF5E"
+    artist: "\u304D\u3083\u308A\u30FC\u3071\u307F\u3085\u3071\u307F\u3085"
+    time: 1:29:02
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: HALLOWEEN PARTY
+    artist: HALLOWEEN JUNKY ORCHESTRA
+    time: 1:38:19
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: NIGHT DANCER
+    artist: Imase
+    time: 1:50:02
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u3059\u305A\u3081"
+    artist: RADWIMPS
+    time: 1:53:44
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30AB\u30CA\u30BF\u30CF\u30EB\u30AB"
+    artist: RADWIMPS
+    time: 1:58:33
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30A2\u30B9\u30CE\u30E8\u30BE\u30E9\u54E8\u6212\u73ED"
+    artist: Orangestar
+    time: 2:13:05
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30C4\u30AD\u30DF\u30BD\u30A6"
+    artist: Novelbright
+    time: 2:22:52
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: W/X/Y
+    artist: Tani Yuuki
+    time: 2:30:20
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: Myra
+    artist: Tani Yuuki
+    time: 2:38:05
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: Surges
+    artist: Orangestar
+    time: 2:45:59
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D7\u30E9\u30CD\u30C6\u30B9"
+    artist: seiza
+    time: 2:55:41
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/09/13
+    title: "\u3010 \u6B4C\u67A0 / \u521D\u898B\u3055\u3093\u5927\u6B53\u8FCE \u3011
+      \u4E00\u7DD2\u306B\u591C\u66F4\u304B\u3057\u3057\u3088\U0001F49B | singing
+      stream\u3010 \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: Sincerely
+    artist: TRUE
+    time: 3:02:34
+    url: https://www.youtube.com/watch?v=6fIlleZ3v2c
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30E2\u30A8\u30C1\u30E3\u30C3\u30AB\u30D5\u30A1\u30A4\u30A2"
+    artist: "\u5F0C\u8AA0"
+    time: 9:31
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u305A\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uFF01"
+    artist: "\u30AD\u30BF\u30CB\u30BF\u30C4\u30E4"
+    time: 41:30
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u32F0\u8CAC\u4EFB\u96C6\u5408\u4F53"
+    artist: "\u30DE\u30B5\u30E9\u30C0"
+    time: 52:19
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "B\u7D1A"
+    artist: "\u3061\u3083\u3093\u307F\u306A"
+    time: 1:04:07
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D5\u30A1\u30BF\u30FC\u30EB"
+    artist: GEMN
+    time: 1:13:33
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u304A\u307E\u3048\u3082\u2661"
+    artist: Mona
+    time: 1:25:28
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30EB\u30FC\u30E0 No.4"
+    artist: "\u8D85\u5B66\u751F"
+    time: 1:35:11
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "Alice In \u51B7\u51CD\u5EAB"
+    artist: Orangestar
+    time: 2:03:18
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u771F\u751F\u6D3B"
+    artist: Kotoha
+    time: 2:13:15
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u7D76\u9802\u8B83\u6B4C"
+    artist: "\u548C\u306C\u304B"
+    time: 2:19:34
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u9B3C\u306E\u5BB4"
+    artist: "\u53CB\u6210\u7A7A"
+    time: 2:25:31
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u7C9B\u8056!! \u30ED\u30EA\u795E\u30EC\u30AF\u30A4\u30A8\u30E0\u2606"
+    artist: "\u3057\u3050\u308C\u3046\u3044"
+    time: 2:34:20
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "I\u306A\u3093\u3067\u3059"
+    artist: "\u308C\u308B\u308A\u308A"
+    time: 2:42:10
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u8E0A"
+    artist: Ado
+    time: 2:47:13
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: KING
+    artist: Kanaria
+    time: 2:52:30
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30B7\u30E3\u30EB\u30EB"
+    artist: "\u9808\u7530\u666F\u51EA"
+    time: 2:57:29
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u60D1\u661F\u30EB\u30FC\u30D7"
+    artist: Eve
+    time: 3:04:44
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u3042\u3044\u3057\u3066\u3044\u305F\u306E\u306B"
+    artist: MARETU
+    time: 3:09:51
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D5\u30A9\u30CB\u30A4"
+    artist: "\u30C4\u30DF\u30AD"
+    time: 3:15:20
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/21
+    title: "\u3010 \u5FA9\u5E30\u914D\u4FE1 / \u6B4C\u96D1\u8AC7\u67A0 \u3011\u305F\u3060\u3044\u307E\uFF5E\uFF5E\uFF5E\uFF5E\uFF5E\uFF01\uFF01\uFF01\uFF01\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u56DE\u308B\u7A7A\u3046\u3055\u304E"
+    artist: Orangestar
+    time: 3:21:38
+    url: https://www.youtube.com/watch?v=MyJUOLmZd8k
+  - date: 2024/10/31
+    title: "\u3010#\u30CF\u30ED\u30A6\u30A3\u30F3\u6B4C\u67A0\u30EA\u30EC\u30FC\u3011\u3068\u308A\u3063\u304F\u304A\u3042\u3068\u308A\u30FC\u3068\U0001F47B\u304A\u83D3\u5B50\u3092\u304F\u308C\u3066\u3082\u3044\u305F\u305A\u3089\u3057\u3061\u3083\u3046\u305E\U0001F498\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D5\u30A1\u30BF\u30FC\u30EB"
+    artist: GEMN
+    time: 2:20
+    url: https://www.youtube.com/watch?v=e2jSIaA0yzs
+  - date: 2024/10/31
+    title: "\u3010#\u30CF\u30ED\u30A6\u30A3\u30F3\u6B4C\u67A0\u30EA\u30EC\u30FC\u3011\u3068\u308A\u3063\u304F\u304A\u3042\u3068\u308A\u30FC\u3068\U0001F47B\u304A\u83D3\u5B50\u3092\u304F\u308C\u3066\u3082\u3044\u305F\u305A\u3089\u3057\u3061\u3083\u3046\u305E\U0001F498\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "Crazy Party Night \uFF5E\u3071\u3093\u3077\u304D\u3093\u306E\u9006\u8972\uFF5E"
+    artist: "\u304D\u3083\u308A\u30FC\u3071\u307F\u3085\u3071\u307F\u3085"
+    time: 11:00
+    url: https://www.youtube.com/watch?v=e2jSIaA0yzs
+  - date: 2024/10/31
+    title: "\u3010#\u30CF\u30ED\u30A6\u30A3\u30F3\u6B4C\u67A0\u30EA\u30EC\u30FC\u3011\u3068\u308A\u3063\u304F\u304A\u3042\u3068\u308A\u30FC\u3068\U0001F47B\u304A\u83D3\u5B50\u3092\u304F\u308C\u3066\u3082\u3044\u305F\u305A\u3089\u3057\u3061\u3083\u3046\u305E\U0001F498\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u5316\u3051\u306E\u82B1"
+    artist: "\u306A\u304D\u305D"
+    time: 17:39
+    url: https://www.youtube.com/watch?v=e2jSIaA0yzs
+  - date: 2024/10/31
+    title: "\u3010#\u30CF\u30ED\u30A6\u30A3\u30F3\u6B4C\u67A0\u30EA\u30EC\u30FC\u3011\u3068\u308A\u3063\u304F\u304A\u3042\u3068\u308A\u30FC\u3068\U0001F47B\u304A\u83D3\u5B50\u3092\u304F\u308C\u3066\u3082\u3044\u305F\u305A\u3089\u3057\u3061\u3083\u3046\u305E\U0001F498\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30D5\u30A3\u30AF\u30B5\u30FC"
+    artist: "\u306C\u3086\u308A"
+    time: 21:05
+    url: https://www.youtube.com/watch?v=e2jSIaA0yzs
+  - date: 2024/10/31
+    title: "\u3010#\u30CF\u30ED\u30A6\u30A3\u30F3\u6B4C\u67A0\u30EA\u30EC\u30FC\u3011\u3068\u308A\u3063\u304F\u304A\u3042\u3068\u308A\u30FC\u3068\U0001F47B\u304A\u83D3\u5B50\u3092\u304F\u308C\u3066\u3082\u3044\u305F\u305A\u3089\u3057\u3061\u3083\u3046\u305E\U0001F498\u3010
+      \u6708\u5BAE\u304F\u3045/#\u65B0\u4EBAVtuber \u3011 #karaoke #shorts"
+    songName: "\u30B5\u30F3\u30C9\u30EA\u30E8\u30F3(Cendrillon)"
+    artist: "\u30B7\u30B0\u30CA\u30EBP"
+    time: 27:27
+    url: https://www.youtube.com/watch?v=e2jSIaA0yzs
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRfkX3CIwBF9Xs8oV5uIOopgjsaNQvjRyRUS32-pBU6Qb7nGl3xKXWPjKIfB61e2ysmxLcTV3MG-RDJ/pub?gid=0&single=true&output=csv

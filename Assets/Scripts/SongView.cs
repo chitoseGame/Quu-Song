@@ -1,29 +1,29 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using TMPro;
-using UnityEngine.UI;
+//using System.Collections;
+//using System.Collections.Generic;
+//using UnityEngine;
+//using TMPro;
+//using UnityEngine.UI;
 
-public class SongView : MonoBehaviour
-{
-    [SerializeField]
-    TextMeshProUGUI _songName;
-    [SerializeField]
-    TextMeshProUGUI _artist;
-    [SerializeField]
-    Button _linkButton;
+//public class SongView : MonoBehaviour
+//{
+//    [SerializeField]
+//    TextMeshProUGUI _songName;
+//    [SerializeField]
+//    TextMeshProUGUI _artist;
+//    [SerializeField]
+//    Button _linkButton;
 
-    string _url;
+//    string _url;
 
-    public Button LinkButton { get => _linkButton;}
-    public string SongName { get => _songName.text; }
+//    public Button LinkButton { get => _linkButton;}
+//    public string SongName { get => _songName.text; }
 
-    public void Initialize(SongData data)
-    {
-        _songName.text = data.SongName;
-        _artist.text=data.Artist;
-    }
+//    public void Initialize(SongData data)
+//    {
+//        _songName.text = data.SongName;
+//        _artist.text=data.Artist;
+//    }
 
-}
+//}
 
 
