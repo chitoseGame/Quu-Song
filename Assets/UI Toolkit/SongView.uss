@@ -64,3 +64,26 @@
     -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
     -unity-text-align: middle-left;
 }
+
+.UnderMenuBtn {
+    flex-shrink: 1;
+    flex-grow: 1;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    align-self: stretch;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    width: 0;
+    -unity-font: url("project://database/Assets/Fonts/static/NotoSansJP-Regular.ttf?fileID=12800000&guid=14a124630e2a56e439e09f823e595aa5&type=3#NotoSansJP-Regular");
+    -unity-font-definition: url("project://database/Assets/Fonts/FontAsset/NotoSansJP-Regular%20SDF.asset?fileID=11400000&guid=49a0400185acad14f9dfd7e09f5fad53&type=2#NotoSansJP-Regular SDF");
+    font-size: 80px;
+    background-color: rgb(255, 255, 255);
+}

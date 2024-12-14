@@ -12,13 +12,19 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
     private SongView _songView;
     [SerializeField]
     private MainPanel _mainPanel;
+
+    [SerializeField]
+    private TestSingingViewr _songVideoViewr;
     [SerializeField]
     SO_Song _so_songLive;
-
+    [SerializeField]
+    SO_SongVideo _songVideo;
     [SerializeField]
     private Font _japaneseFont;
 
 
+
+    public SO_SongVideo SongVideo { get => _songVideo; }
     public Font JapaneseFont { get { return _japaneseFont; } }
 
 
@@ -43,10 +49,14 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
     {
         _mainPanel.AllSongBtn.clicked+=OnAllSong;
         _mainPanel.SearchBtn.clicked += OnSearchSong;
+        _mainPanel.SongLiveBtn.clicked+=OnSongLive;
+        _mainPanel.SongVideoBtn.clicked+=OnSongVideo;
 
         _songView.BackButton.clicked += OnBackPanel;
     }
-
+    /// <summary>
+    /// 全曲表示ボタンのイベント
+    /// </summary>
     void OnAllSong()
     {
         _mainPanel.SetActive(false);
@@ -58,7 +68,9 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
             _songData.Add(data);
         }
     }
-
+    /// <summary>
+    /// 曲検索ボタンのイベント
+    /// </summary>
     void OnSearchSong()
     {
         _mainPanel.SetActive(false);
@@ -75,6 +87,9 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
         }
     }
 
+    /// <summary>
+    /// 戻るボタンのイベント
+    /// </summary>
     void OnBackPanel()
     {
         _songData.Clear();
@@ -82,6 +97,10 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
         _songView.SetActive(false);
     }
 
+    /// <summary>
+    /// 歌ボタンのクリックイベント
+    /// </summary>
+    /// <param name="element"></param>
     public void OnClickSong(VisualElement element)
     {
         var data = (SongData)element.userData;
@@ -89,6 +108,24 @@ public class UIToolkitManager : Singleton<UIToolkitManager>
         //Debug.LogError($"Open URL:{link}");
         Application.OpenURL(link);
     }
+
+    void OnSongLive()
+    {
+        _mainPanel.ActiveSongRoot(true);
+        _songVideoViewr.gameObject.SetActive(false);
+    }
+
+    void OnSongVideo()
+    {
+        _mainPanel.ActiveSongRoot(false);
+        _songVideoViewr.gameObject.SetActive(true);
+    }
+
+    /// <summary>
+    /// DateTimeから秒数の文字列に変換
+    /// </summary>
+    /// <param name="dateTime">もとになるデータ</param>
+    /// <returns></returns>
     public string ConvertSecondText(string dateTime)
     {
         // 「:」が1つしかない場合は、時間が省略されたとみなして「0:」を追加

@@ -22,11 +22,11 @@ public class SingingCell : FancyCell<SingingItemData,Context>
     void Start()
     {
         button.onClick.AddListener(() => Context.OnCellClicked?.Invoke(Index));
-        var so=FindObjectOfType<SearchYoutube>();
+        var so=FindObjectOfType<TestSingingViewr>();
         imageButton.onClick.AddListener(() =>
         {
-            Debug.LogError($"{so.SongVideo.sheetDataRecords[Context.SelectedIndex].url}");
-            string url = so.SongVideo.sheetDataRecords[Context.SelectedIndex].url;
+            Debug.LogError($"{UIToolkitManager.Instance.SongVideo.songMovieData[Context.SelectedIndex].url}");
+            string url = UIToolkitManager.Instance.SongVideo.songMovieData[Context.SelectedIndex].url;
             Application.OpenURL(url);
         });
     }
