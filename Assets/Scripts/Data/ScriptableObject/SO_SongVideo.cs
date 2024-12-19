@@ -15,7 +15,7 @@ using UnityEditor;
 public class SO_SongVideo : ScriptableObject
 {
     public List<SongMovieData> songMovieData = new List<SongMovieData>();
-    public List<Texture2D> textures = new List<Texture2D>();
+    List<Texture2D> textures = new List<Texture2D>();
     SheetDataRecord[] sheetDataRecords;
     [SerializeField]
     private string url;//ŒöŠJURL‚ð’£‚é‚±‚Æ
